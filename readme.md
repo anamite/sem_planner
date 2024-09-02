@@ -3,7 +3,7 @@
 Welcome to **Simply Sync**, the ultimate Semester Planner that helps you conquer your academic goals with ease and style! Whether you're planning out your courses or tracking your grades,
 our intuitive Kanban board has got you covered. Get ready to take control of your semester like never before!
 
-Check it out: 
+Check it out: https://anamite.github.io/sem_planner/
 
 ![image](https://github.com/user-attachments/assets/9706ccb3-4864-4772-b957-0d0e906489bc)
 
