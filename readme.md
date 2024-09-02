@@ -1,6 +1,6 @@
 # Semester Planner Kanban Board 🎓
 
-Welcome to **Simply Sync**, the ultimate Semester Planner that helps you conquer your academic goals with ease and style! Whether you're planning out your courses or tracking your grades,
+Welcome to **Sem Planner**, the ultimate Semester Planner that helps you conquer your academic goals with ease and style! Whether you're planning out your courses or tracking your grades,
 our intuitive Kanban board has got you covered. Get ready to take control of your semester like never before!
 
 Check it out: https://anamite.github.io/sem_planner/
@@ -28,6 +28,6 @@ Currently, your boards are only available on the device where they were created.
 
 ## 💡 Why You'll Love It
 
-Simply Sync is all about making your academic life simpler and more fun. With our sleek design and powerful features, 
+Sem Planner is all about making your academic life simpler and more fun. With our sleek design and powerful features, 
 you'll wonder how you ever managed without it. So go ahead, dive in, and start planning your best semester yet!
 
